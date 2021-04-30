@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.72" height="49.72" viewBox="0 0 49.72 49.72">
+  <g id="Eye" transform="translate(-1920.202 -2540.223)">
+    <g id="Orange_Iris" data-name="Orange Iris" transform="translate(1528.584 2216.791)">
+      <path id="Iris_L" d="M442.79,375.71a24.854,24.854,0,0,0,0,35.155l35.155-35.155A24.854,24.854,0,0,0,442.79,375.71Z" transform="translate(-43.89 -44.995)" fill="#f66"/>
+      <path id="iris_R" d="M489.555,422.475a24.854,24.854,0,0,0,0-35.155L454.4,422.475A24.854,24.854,0,0,0,489.555,422.475Z" transform="translate(-55.5 -56.605)" fill="#f66"/>
+    </g>
+    <g id="Pupil" transform="translate(1528.584 2216.791)">
+      <circle id="Pupil-2" data-name="Pupil" cx="12.431" cy="12.431" r="12.431" transform="translate(404.046 335.861)" fill="#433c70"/>
+      <circle id="Small_Shine" cx="3.134" cy="3.134" r="3.134" transform="translate(405.056 353.446)" fill="#fff"/>
+      <circle id="Big_Shine" cx="4.788" cy="4.788" r="4.788" transform="translate(419.977 335.218)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
