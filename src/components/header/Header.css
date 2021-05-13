@@ -1,0 +1,14 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+    color: white;
+    padding: 1rem;
+    font-family: 'Gill Sans Bold';
+}
+
+.header h1 span{
+    color: tomato;
+}
