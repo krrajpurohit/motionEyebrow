@@ -5,7 +5,7 @@
 
 :root {
   font-size: 16px;
-  font-family: 'Open Sans';
+  font-family: 'Gill Sans Bold';
   --text-primary: #b6b6b6;
   --text-secondary: #ececec;
   --bg-primary: #23232e;
@@ -14,20 +14,19 @@
 }
 
 body {
-  color: black;
-  background-color: white;
   margin: 0;
   padding: 0;
 }
 
 body::-webkit-scrollbar {
-  width: 0.25rem;
+  width: 0.50rem;
 }
 
 body::-webkit-scrollbar-track {
-  background: white;
+  background:  #0E0A23;
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #0E0A23;
+  background: tomato;
+  border-radius: 15px
 }

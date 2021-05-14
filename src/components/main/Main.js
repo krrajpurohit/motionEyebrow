@@ -1,8 +1,11 @@
 import "./Main.css";
+import Header from '../header/Header';
+import Footer from '../footer/Footer';
 
-const Main = (props) => {
+const Main = () => {
   return <div className="main">
-    {props.children}
+    <Header></Header>
+    <Footer></Footer>
   </div>;
 };
 
